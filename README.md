@@ -1,6 +1,6 @@
 <img width="250" height="50" src="assets/images/devSuperior.png"/>
 <p>
-<h1 align="center">DESAFIO: CRUD de clientes</h1>
+<h1 align="center">DESAFIO: Modelo de domínio e ORM</h1>
 
 <a href="()"></a>
 [ACESSAR  PROJETO](https://github.com/luizzlcs/dsevent/blob/master/src/main/java/com/antares/dsevent/entities/Atividade.java)
